@@ -10,6 +10,13 @@ As part of my portfolio, I developed an engaging 2D infinite runner game using C
 
 In this project, I crafted a 2D infinite runner game that immerses players in a thrilling experience. The game starts with a visually appealing backdrop featuring three distinct lanes. A central character/object remains at the center lane, providing a focal point for the player's journey. The character stays stationary while the background moves continuously, creating the illusion of forward motion. Players assume control of the character, guiding it through obstacles and collecting valuable coins.
 
+### Game Preview
+
+
+https://github.com/Ziaad-Khaled/infinite-runner-opengl/assets/77291238/0fc55d3e-9765-4757-8e6b-1ae80e9ebf3f
+
+
+
 ### Obstacle Dodging
 
 The game introduces a dynamic obstacle system. Obstacles descend from the top to the bottom of the screen, appearing randomly in different lanes. To succeed, players must maneuver the character to avoid collisions with these obstacles. Quick thinking and precise control are essential for navigating the ever-changing landscape. Colliding with an obstacle results in the character losing one life. Players start with a total of three lives, adding a layer of strategy to the game.
