@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\GUC\Semester 7 Berlin\Graphics\Trials\Project1\Project1\Source.cpp(90,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project1.vcxproj -> D:\GUC\Semester 7 Berlin\Graphics\Trials\Project1\Debug\Project1.exe
